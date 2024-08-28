@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Ravindu Dinushan",
+      "email": "ravindudinushan9966@gmail.com",
+      "phone": "0763801197",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Malindu Lakshan",
+      "email": "malindu@gmail.com",
+      "phone": "0765456734",
+      "role": "staff"
+    },
+    {
+      "id": "3",
+      "name": "Hasini Piyumika",
+      "email": "hasini@gmail.com",
+      "phone": "0765869012",
+      "role": "staff"
+    }
+  ]
+}
