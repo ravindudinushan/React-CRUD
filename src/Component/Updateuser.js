@@ -75,7 +75,7 @@ const Updateuser = () => {
                                     <label>Role</label>
                                     <select value={role || ''} onChange={e => rolechange(e.target.value)} className="form-control">
                                         <option value="admin">Admin</option>
-                                        <option value="staff">Staff</option>
+                                        <option value="user">User</option>
                                     </select>
                                 </div>
                             </div>

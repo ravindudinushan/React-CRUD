@@ -12,14 +12,14 @@
       "name": "Malindu Lakshan",
       "email": "malindu@gmail.com",
       "phone": "0765456734",
-      "role": "staff"
+      "role": "user"
     },
     {
       "id": "3",
       "name": "Hasini Piyumika",
       "email": "hasini@gmail.com",
       "phone": "0765869012",
-      "role": "staff"
+      "role": "admin"
     }
   ]
 }
